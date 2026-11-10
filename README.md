@@ -7,7 +7,7 @@
 
 이 저장소는 GitHub Pages로 바로 실행됩니다.
 
-- 주소: `https://<아이디>.github.io/<저장소이름>/`
+- 주소: https://dlduddms12.github.io/polarbear/
 - 크롬 등 웹 브라우저에서 위 주소를 열면 됩니다.
 - 인터넷(와이파이)이 연결된 상태에서 실행됩니다.
 
